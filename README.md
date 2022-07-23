@@ -38,6 +38,6 @@
  
   
 📫 **Способы связи со мной:**  
-***[Telegram](https://t.me/korovnikovn)  
+***[Telegram](https://t.me/korovnikovn "@korovnikovn")  
 nikw5346@gmail.com***
 
