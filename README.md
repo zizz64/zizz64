@@ -31,7 +31,7 @@
 
 **Изучаю:**
 - Python
-- JavaScript\
+- JavaScript
 - Selenium
 
 **Примеры моих работ:** 
