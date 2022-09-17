@@ -29,12 +29,17 @@
 - Android Studio;
 - Visual Stuido Code.
 
+**Изучаю:**
+- Python
+- JavaScript\
+- Selenium
+
 **Примеры моих работ:** 
 - **[Тест-кейсы](https://clck.ru/sMn6v)**
-- **[Тест-план](https://clck.ru/sMnEL)**  
-- **[Баг-репорт](https://clck.ru/sMnCf)**  
-- **[Чек-лист](https://clck.ru/sMnb9)**  
-- **[Тестовое задание](https://clck.ru/sMt3U)** 
+- **[Тест-планы](https://clck.ru/sMnEL)**  
+- **[Баг-репорты(Jira. Для доступа нужна ваша почта)](https://clck.ru/xCvig)**  
+- **[Чек-листы](https://clck.ru/324QHZ)**  
+- **[Тестовые задание](https://clck.ru/324QBY)** 
 - **[Отчет о тестировании](https://clck.ru/sMuZz)**
  
   
